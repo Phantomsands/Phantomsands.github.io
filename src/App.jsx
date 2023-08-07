@@ -7,6 +7,9 @@ function App() {
 
   return (
     <>
+	<head>
+		<meta name="google-site-verification" content="CF8HUecBnTDokhzFnU2iNVPbX6-BnFz4-BJhu4FFsS0" />
+	</head>
 	<p className="read-the-docs">
         This is the home page of developer Solsands.
       </p>
